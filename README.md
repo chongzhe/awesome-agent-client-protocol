@@ -28,6 +28,7 @@ Code editors that natively support the Agent Client Protocol as clients.
 
 * [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom. Features native, visually rich ACP integration.
 * [JetBrains IDEs](https://www.jetbrains.com/acp/) - Full ACP support via the official JetBrains AI tooling (IntelliJ IDEA, PyCharm, WebStorm, Rider, etc.).
+* [oxi](https://github.com/maziluiosif/oxi) - Native Rust/egui coding-agent desktop app that acts as an ACP client for Claude Code, Cursor and Codex, side by side with local GGUF models (llama-server, Ollama, LM Studio) and hosted APIs.
 
 ## Agents
 
