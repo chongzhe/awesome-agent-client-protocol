@@ -8,6 +8,7 @@ The Agent Client Protocol (ACP) does for AI agents what the Language Server Prot
 
 * [Official Resources](#official-resources)
 * [Editors & IDEs](#editors--ides)
+* [Clients & Platforms](#clients--platforms)
 * [Agents](#agents)
 * [Cloud & Hybrid Agents](#cloud--hybrid-agents)
 * [Local & Open-Source Agents](#local--open-source-agents)
@@ -30,6 +31,12 @@ Code editors that natively support the Agent Client Protocol as clients.
 * [JetBrains IDEs](https://www.jetbrains.com/acp/) - Full ACP support via the official JetBrains AI tooling (IntelliJ IDEA, PyCharm, WebStorm, Rider, etc.).
 * [oxi](https://github.com/maziluiosif/oxi) - Native Rust/egui coding-agent desktop app that acts as an ACP client for Claude Code, Cursor and Codex, side by side with local GGUF models (llama-server, Ollama, LM Studio) and hosted APIs.
 
+
+## Clients & Platforms
+
+ACP clients that are not code editors: desktop, web and team platforms that run ACP agents.
+
+* [AgentConnect](https://github.com/agentconnect-md/agentconnect) - Open-source (Apache-2.0) multi-agent platform that brings ACP agents into team workflows across Slack, Telegram, Discord, Lark, GitHub, GitLab, Gitea and Linear, managed from a web console. Self-hostable with Docker Compose or Kubernetes.
 ## Agents
 
 Autonomous coding assistants that implement the ACP server specification.
